@@ -1,0 +1,272 @@
+{
+  "Fenway Park": {
+    "coords": [
+      42.3467,
+      -71.0972
+    ],
+    "orientation": 115,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png"
+  },
+  "Yankee Stadium": {
+    "coords": [
+      40.8296,
+      -73.9262
+    ],
+    "orientation": 120,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png"
+  },
+  "Rogers Centre": {
+    "coords": [
+      43.6414,
+      -79.3894
+    ],
+    "orientation": 105,
+    "indoor": true,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png"
+  },
+  "Camden Yards": {
+    "coords": [
+      39.2839,
+      -76.6217
+    ],
+    "orientation": 115,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png"
+  },
+  "Tropicana Field (Steinbrenner Field)": {
+    "coords": [
+      27.9762,
+      -82.5035
+    ],
+    "orientation": 90,
+    "indoor": true,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png"
+  },
+  "Progressive Field": {
+    "coords": [
+      41.4965,
+      -81.6852
+    ],
+    "orientation": 110,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png"
+  },
+  "Comerica Park": {
+    "coords": [
+      42.339,
+      -83.0485
+    ],
+    "orientation": 120,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png"
+  },
+  "Kauffman Stadium": {
+    "coords": [
+      39.0517,
+      -94.4803
+    ],
+    "orientation": 115,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png"
+  },
+  "Target Field": {
+    "coords": [
+      44.9817,
+      -93.2782
+    ],
+    "orientation": 120,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png"
+  },
+  "Guaranteed Rate Field": {
+    "coords": [
+      41.8299,
+      -87.6338
+    ],
+    "orientation": 115,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png"
+  },
+  "Minute Maid Park": {
+    "coords": [
+      29.7573,
+      -95.3555
+    ],
+    "orientation": 105,
+    "indoor": true,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png"
+  },
+  "Globe Life Field": {
+    "coords": [
+      32.7513,
+      -97.0822
+    ],
+    "orientation": 110,
+    "indoor": true,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png"
+  },
+  "T-Mobile Park": {
+    "coords": [
+      47.5914,
+      -122.3325
+    ],
+    "orientation": 120,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png"
+  },
+  "Angel Stadium": {
+    "coords": [
+      33.8003,
+      -117.8827
+    ],
+    "orientation": 120,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/laa.png"
+  },
+  "Oakland Athletics (Sutter Health Park)": {
+    "coords": [
+      38.5803,
+      -121.5136
+    ],
+    "orientation": 115,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/oak.png"
+  },
+  "Oracle Park": {
+    "coords": [
+      37.7786,
+      -122.3893
+    ],
+    "orientation": 120,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png"
+  },
+  "Dodger Stadium": {
+    "coords": [
+      34.0739,
+      -118.24
+    ],
+    "orientation": 110,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png"
+  },
+  "Petco Park": {
+    "coords": [
+      32.7076,
+      -117.1566
+    ],
+    "orientation": 115,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png"
+  },
+  "Chase Field": {
+    "coords": [
+      33.4455,
+      -112.0667
+    ],
+    "orientation": 110,
+    "indoor": true,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png"
+  },
+  "Coors Field": {
+    "coords": [
+      39.756,
+      -104.9942
+    ],
+    "orientation": 115,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/col.png"
+  },
+  "Wrigley Field": {
+    "coords": [
+      41.9484,
+      -87.6553
+    ],
+    "orientation": 115,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png"
+  },
+  "Great American Ball Park": {
+    "coords": [
+      39.0979,
+      -84.5064
+    ],
+    "orientation": 115,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png"
+  },
+  "Miller Park": {
+    "coords": [
+      43.028,
+      -87.9712
+    ],
+    "orientation": 110,
+    "indoor": true,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png"
+  },
+  "PNC Park": {
+    "coords": [
+      40.4469,
+      -80.0057
+    ],
+    "orientation": 120,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png"
+  },
+  "Busch Stadium": {
+    "coords": [
+      38.6226,
+      -90.1928
+    ],
+    "orientation": 120,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png"
+  },
+  "Truist Park": {
+    "coords": [
+      33.8908,
+      -84.4679
+    ],
+    "orientation": 115,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png"
+  },
+  "LoanDepot Park": {
+    "coords": [
+      25.7781,
+      -80.2195
+    ],
+    "orientation": 105,
+    "indoor": true,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png"
+  },
+  "Citi Field": {
+    "coords": [
+      40.7571,
+      -73.8458
+    ],
+    "orientation": 120,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png"
+  },
+  "Nationals Park": {
+    "coords": [
+      38.873,
+      -77.0075
+    ],
+    "orientation": 120,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png"
+  },
+  "Citizens Bank Park": {
+    "coords": [
+      39.9057,
+      -75.1665
+    ],
+    "orientation": 115,
+    "indoor": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png"
+  }
+}
